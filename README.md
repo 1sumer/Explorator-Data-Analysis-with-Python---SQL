@@ -24,19 +24,19 @@ This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA)
 
 5. **🎥 IMDb Movie Analysis**
    - **Description**: Exploring IMDb data to identify trends in movie ratings, genres, and box office success.
-   - **Tools**: Python, Pandas, Matplotlib, SQL.
+   - **Tools**: Python, Pandas, Matplotlib.
 
 6. **🏏 Full Fledge IPL Data Analysis (2008-2024)**
    - **Description**: In-depth analysis of IPL data spanning from 2008 to 2024, including player performance, team statistics, and match outcomes.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
+   - **Tools**: Python, Pandas, Seaborn.
 
 7. **🚢 Titanic Data Analysis**
    - **Description**: Investigating the factors that influenced passenger survival rates on the Titanic.
-   - **Tools**: Python, Pandas, Matplotlib, Seaborn, SQL.
+   - **Tools**: Python, Pandas, Matplotlib, Seaborn.
 
 8. **🍽️ Zomato Geographical Analysis**
    - **Description**: Geographical analysis of Zomato's restaurant data, focusing on location-based trends and customer preferences.
-   - **Tools**: Python, Pandas, Seaborn, SQL.
+   - **Tools**: Python, Pandas, Seaborn.
 
 ## ⚙️ Requirements
 
